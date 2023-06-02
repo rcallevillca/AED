@@ -1,16 +1,11 @@
 /*2.(X Puntos) Implemente una función que reciba un string con palabras, busque una palabra pasada 
 como parámetro y contar la cant que se repite
-
 int contarPalabra(char *str, char *palabracontar)
 //un espacio entre cada palñabra
 Donde:
 ● str: Puntero al string con palabras
 ● palabraContar: Palabra a contar en el string.
 Devuelve la cantidad de palabras encontradas o un número negativo en caso de error.
-
-
-nombre apellido y legajo 
-como compiloo
 */
 #include<stdio.h>
 #include <string.h>
